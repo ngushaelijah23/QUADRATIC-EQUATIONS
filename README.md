@@ -145,7 +145,5 @@ You are free to:
 
 Feel free to fork this repository, improve it, and share your improvements!
 
----
-
-Feel free to fork, clone, or contribute to this repository! 🚀
+Feel free to fork, clone, or contribute to this repository! 
 
